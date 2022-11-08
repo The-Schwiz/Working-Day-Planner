@@ -22,6 +22,7 @@ function displayDateAndTime() {
   currentDayEl.text(rightNow);
 }
 
+// Working through adding style based on if time is past present or future
 function compareToCurrentTime () {
 const currentTime = dayjs().startOf('hour');
 
