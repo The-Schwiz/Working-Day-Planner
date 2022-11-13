@@ -1,4 +1,4 @@
-# Working Day Planner
+# Work Day Planner
 
 ## Description
 
